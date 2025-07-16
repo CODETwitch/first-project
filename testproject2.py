@@ -23,6 +23,7 @@ while attempts < max_attempts:
         print("You're close!")
       print("too low")
 
+input("Press Enter to exit...")
 
 
 
